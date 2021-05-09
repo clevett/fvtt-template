@@ -1,0 +1,16 @@
+{
+	"name": "name",
+	"title": "Loot Sheet NPC Forbidden Lands",
+	"description": "Basic template with npm setup",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.7.9",
+	"compatibleCoreVersion": "0.7.9",
+	"author": "Cassie Levett (Necoya)",
+	"systems": ["system"],
+    "esmodules": ["/src/bundle.js"],
+	"styles": ["/src/bundle.css"],
+	"socket": true,
+	"url": "https://github.com/clevett/fvtt-template",
+	"manifest": "https://raw.githubusercontent.com/clevett/fvtt-template/master/module.json",
+	"download": "https://github.com/clevett/fvtt-template/archive/master.zip"
+}
